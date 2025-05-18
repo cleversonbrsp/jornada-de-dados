@@ -17,3 +17,7 @@ curl https://pyenv.run | bash
 
 https://github.com/pyenv/pyenv?tab=readme-ov-file#1-automatic-installer-recommended
 
+### Verificando versões do python instalados:
+´´´bash
+pyenv versions
+´´´
