@@ -1,2 +1,1 @@
-# jornada-de-dados
-Jornada de dados
+# Notas de estudo do curso Jornada de Dados
