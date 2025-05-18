@@ -12,3 +12,8 @@ O **`pyenv`** é uma ferramenta para gerenciar múltiplas versões do Python no 
 
 > Resumindo: o `pyenv` dá controle total sobre qual versão do Python usar em cada projeto, mantendo seu ambiente limpo e isolado.
 
+### ZSH Install:
+curl https://pyenv.run | bash
+
+https://github.com/pyenv/pyenv?tab=readme-ov-file#1-automatic-installer-recommended
+
